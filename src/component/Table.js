@@ -73,7 +73,7 @@ class Table extends Component {
       .reduce((prev, curr) => {return prev += Number.parseInt(curr.amount)},0);
   }
 
-  spending() {
+  spending() { 
     return this.state.tables.filter((line) => line.amount < 0)
       .reduce((prev, curr) => {return prev += Number.parseInt(curr.amount)},0);
   }
