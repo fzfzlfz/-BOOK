@@ -1,3 +1,12 @@
+# This repository is for learning how to use React
+
+To see what I have done, you can just click into `DollarBOOK/src/pages/Login/index.js`
+
+For this page, I learn to use React to build the login part
+
+By the way, this project can run by itself.
+
+You can just clone it and use yarn start to run.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
